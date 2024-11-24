@@ -1,0 +1,5 @@
+Vlad 78 76
+Cat 99 0
+Dog 29 69
+Mouse 11 12
+Itachi 100 99
