@@ -1,0 +1,6 @@
+cat 1234 a dog 4321 u badboy 1234 a fox 2314 u itachi 2341 u 
+cat a Криволап В.С. 5 
+badboy a Кубе С.С.
+dog u Халамов И.М. 10 0 10 9 
+fox u Баглай И.А. 5 0 7 8 
+itachi u Криволап К.П. 5 0 0 5 
